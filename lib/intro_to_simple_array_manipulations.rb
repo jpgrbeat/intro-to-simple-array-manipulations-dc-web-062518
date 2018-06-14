@@ -22,3 +22,6 @@ end
 def shift_with_args(array)
   new_arr = []
   2.times do
+    new_arr.push(array.shift)
+  end
+  
