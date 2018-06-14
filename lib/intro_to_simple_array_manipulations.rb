@@ -20,3 +20,5 @@ def using_shift(array)
   arg
 end
 def shift_with_args(array)
+  new_arr = []
+  2.times do
